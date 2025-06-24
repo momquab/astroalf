@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Downloads
-permalink: /downloads/
+title: Resources
+permalink: /resources/
 ---
 
-# Downloads
+# Resources
 
-Here are all the Astronomer Alfie printables!
+Here are all the Astronomer Alfie resources - printables, crafts and more!
