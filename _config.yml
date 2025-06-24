@@ -1,6 +1,6 @@
 title: Astronomer Alfie
 description: The home of out-of-this-world space fun, news and activities.
-baseurl: "/astroalf" # MUST match your repo name
+baseurl: ""
 url: "https://momquab.github.io"
 
 theme: null
