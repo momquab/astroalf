@@ -16,6 +16,12 @@ img {
   display: block;
 }
 
+.profile-img {
+  width: 120px;
+  height: auto;
+  display: block; /* Ensures it behaves like an image block */
+}
+
 a {
   color: #ff5500;
 }

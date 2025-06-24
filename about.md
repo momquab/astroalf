@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About This Site
+# About Astronomer Alfie
 
+<img src="{{ '/assets/images/astroalf.png' | relative_url }}" alt="Astronomer Alfie" class="profile-img float-start me-3">
 
 Hi, I’m astronomer Alfie! 
 
