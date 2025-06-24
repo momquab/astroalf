@@ -1,0 +1,8 @@
+title: Astronomer Alfie
+description: The home of out-of-this-world space fun, news and activities.
+baseurl: "" # leave empty if deploying at root
+url: ""     # you can leave empty for local development
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

@@ -1,0 +1,42 @@
+<!-- _includes/header.html -->
+<header class="orange-gradient text-white py-3 mb-0">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <!-- Site title -->
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+      <!-- Hamburger toggler button for small screens -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar"
+        aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Navbar links -->
+      <div class="collapse navbar-collapse justify-content-end" id="mainNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/' | relative_url }}">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/about/' | relative_url }}">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/blog/' | relative_url }}">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/downloads/' | relative_url }}">Downloads</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- SVG Wave: OUTSIDE the header -->
+<div class="wave-container">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 80" preserveAspectRatio="none">
+    <path fill="#ff5e62" fill-opacity="1"
+      d="M0,48L60,46.7C120,45.3,240,42.75,360,45.3C480,48,600,56,720,60C840,64,960,64,1080,60C1200,56,1320,48,1380,44L1440,40L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z">
+    </path>
+  </svg>
+</div>
