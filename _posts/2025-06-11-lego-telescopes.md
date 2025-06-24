@@ -11,10 +11,10 @@ If you love LEGO and you love astronomy, then you will love my new LEGO Space Te
 
 ### James Webb Space Telescope
 
-![James Webb Space Telescope Part 1](/assets/images/JWST1.png)
+![James Webb Space Telescope Part 1]({{ "/assets/images/JWST1.png" | relative_url }})
 
-![James Webb Space Telescope Part 2](/assets/images/JWST2.png)
+![James Webb Space Telescope Part 2]({{ "/assets/images/JWST2.png" | relative_url }})
 
 ### Hubble Space Telescope
 
-![Hubble Space Telescope LEGO](/assets/images/Hubble.png)
+![Hubble Space Telescope LEGO]({{ "/assets/images/Hubble.png" | relative_url }})

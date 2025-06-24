@@ -1,8 +1,9 @@
 title: Astronomer Alfie
 description: The home of out-of-this-world space fun, news and activities.
-baseurl: "" # leave empty if deploying at root
-url: ""     # you can leave empty for local development
+baseurl: "/astroalf" # MUST match your repo name
+url: "https://momquab.github.io"
 
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
